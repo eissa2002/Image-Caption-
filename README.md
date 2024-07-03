@@ -16,7 +16,7 @@ To set up this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/image-captioning.git
+    git clone https://github.com/eissa2002/image-captioning.git
     cd image-captioning
     ```
 
@@ -92,8 +92,6 @@ image-captioning/
 │ ├── images/ # Directory for storing images
 │ └── captions/ # Directory for storing captions
 
-markdown
-Copy code
 
 ## Usage
 
